@@ -1,4 +1,3 @@
-
 SELECT LTF.ActualLeadReceiverCount
 	, LTF.AdvertiserID
 	, LTF.AdvertiserSelectedCount
